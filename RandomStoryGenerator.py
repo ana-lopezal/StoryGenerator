@@ -6,3 +6,5 @@ Sentence_starter = ['Erase una vez', ' En un mundo muy lejano', 'En el comienzo 
 ## Creación de vector donde especifica el personaje
 character = [' vivía un Rey.',' había un panadero llamado Jack.',
              ' vivía un granjero.', ' José, un caballero']
+
+time = [' En un día normal por la mañana', ' En una noche fría y solitaria']
