@@ -23,6 +23,12 @@ second_character = [ ' vió un caballo', ' vió una princesa', ' vió un perro']
 age = [',que parecía no tener más de 25 años,', ',que se veía de una edad bastante avanzada,', 
        ',que se veía como si nunca hubiera descansado en su vida,', ',que parecía estar en una edad madura,' ]
 
-# Creación de vector con la acción del personaje secundario
+## Creación de vector con la acción del personaje secundario
 work = [' buscando algo con mucho esmero.', 'cavando un gran pozo.', 'corriendo de la forma más veloz que hubiera visto jamás.', 
         'saltar sin control.']
+
+## Print de la historia
+print(random.choice(Sentence_starter)+random.choice(character)+
+      random.choice(time)+random.choice(story_plot)+
+      random.choice(place)+random.choice(second_character)+
+      random.choice(age)+random.choice(work))
