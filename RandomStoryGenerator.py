@@ -12,3 +12,6 @@ time = [' En un día normal por la mañana', ' En una noche fría y solitaria']
 
 ## Creación de vector que indica hacia donde va el personaje
 story_plot = [' Iba caminando hacia el lugar para ', ' Iba a comer en un lugar mágico hacia']
+
+## Creación de vector que especifica lugar
+place = [' las montañas', ' el jardín', ' el castillo']
