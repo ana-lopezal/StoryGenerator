@@ -18,3 +18,7 @@ place = [' las montañas', ' el jardín', ' el castillo']
 
  ## Creación de vector que especifica personaje secundario 
 second_character = [ ' vió un caballo', ' vió una princesa', ' vió un perro']
+
+## Creación de vector de edad del personaje secundario
+age = [',que parecía no tener más de 25 años,', ',que se veía de una edad bastante avanzada,', 
+       ',que se veía como si nunca hubiera descansado en su vida,', ',que parecía estar en una edad madura,' ]
