@@ -15,3 +15,6 @@ story_plot = [' Iba caminando hacia el lugar para ', ' Iba a comer en un lugar m
 
 ## Creación de vector que especifica lugar
 place = [' las montañas', ' el jardín', ' el castillo']
+
+ ## Creación de vector que especifica personaje secundario 
+second_character = [ ' vió un caballo', ' vió una princesa', ' vió un perro']
