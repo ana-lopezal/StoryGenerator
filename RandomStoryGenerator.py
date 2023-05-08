@@ -7,4 +7,5 @@ Sentence_starter = ['Erase una vez', ' En un mundo muy lejano', 'En el comienzo 
 character = [' vivía un Rey.',' había un panadero llamado Jack.',
              ' vivía un granjero.', ' José, un caballero']
 
+## Creación de vector que indica el tiempo del día en el cual se lleva acabo la historia.
 time = [' En un día normal por la mañana', ' En una noche fría y solitaria']
